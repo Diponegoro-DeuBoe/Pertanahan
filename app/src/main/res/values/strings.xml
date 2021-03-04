@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertanahan</string>
+    <string name="kantor_pertanahan_kota_yogyakarta">Kantor Pertanahan Kota Yogyakarta</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="choose_lebih_banyak">Lebih banyak</string>
+    <string name="choose_lebih_sedikit">Lebih Sedikit</string>
+    <string name="text_persyaratan">Persyaratan</string>
+</resources>
